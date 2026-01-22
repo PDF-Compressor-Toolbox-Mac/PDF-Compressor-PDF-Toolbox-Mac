@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/08/2c/a9082cd8-f7b6-d013-2808-cf82146d6bb1/icon.png/1200x630bb.png" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/">
+<a href="https://ysids-apps-hub.github.io/.github/Compressor">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
